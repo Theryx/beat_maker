@@ -84,6 +84,10 @@ svg {
 .pad {
   transition: all 0.5s ease;
 }
+
+.mute.active {
+  background-color: rgb(177, 177, 177);
+}
 .play {
   padding: 1rem;
   font-size: 1.5rem;
